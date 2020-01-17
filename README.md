@@ -1,4 +1,4 @@
-This repository contains all data necessary to reproduce all figures and statistics of Vakirlis, Carvunis and McLysaht 2019 .
+This repository contains all data necessary to reproduce all figures and statistics of Vakirlis, Carvunis and McLysaht 2019 eLife, 2020. http://doi.org/10.7554/eLife.53500.
 
 The scripts can be found in the scripts/ folder and the figures to which they relate should be evident from the names of the files.
 The figures, which are the output of the scripts, can be found in the figures/ folder. 
